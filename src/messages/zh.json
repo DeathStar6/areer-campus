@@ -1,0 +1,24 @@
+
+{
+  "DashboardPage": {
+    "title": "仪表板",
+    "description": "选择您的学习水平和专业，以获得人工智能驱动的职业建议。"
+  },
+  "CareerForm": {
+    "title": "找到你的道路",
+    "description": "选择您的学术背景以获得个性化指导。",
+    "studyLevelLabel": "学习水平",
+    "studyLevelPlaceholder": "选择您的学习水平",
+    "specializationLabel": "专业化",
+    "specializationPlaceholder": "选择您的专业",
+    "buttonText": "生成建议",
+    "loadingText": "我们的AI正在规划您的职业道路...",
+    "errorTitle": "错误",
+    "errorMessage": "无法生成建议。请检查您的连接并重试。"
+  },
+  "SuggestionCard": {
+    "futureStudiesTitle": "未来研究",
+    "placementsTitle": "实习和工作",
+    "collegesTitle": "顶尖大学建议"
+  }
+}

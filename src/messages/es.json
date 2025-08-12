@@ -1,0 +1,24 @@
+
+{
+  "DashboardPage": {
+    "title": "Tablero",
+    "description": "Seleccione su nivel de estudios y especialización para obtener asesoramiento profesional impulsado por IA."
+  },
+  "CareerForm": {
+    "title": "Encuentra Tu Camino",
+    "description": "Seleccione su perfil académico para recibir orientación personalizada.",
+    "studyLevelLabel": "Nivel de estudio",
+    "studyLevelPlaceholder": "Seleccione su nivel de estudio",
+    "specializationLabel": "Especialización",
+    "specializationPlaceholder": "Seleccione su especialización",
+    "buttonText": "Generar Sugerencias",
+    "loadingText": "Nuestra IA está trazando su trayectoria profesional...",
+    "errorTitle": "Error",
+    "errorMessage": "No se pudieron generar las sugerencias. Por favor, verifique su conexión e intente de nuevo."
+  },
+  "SuggestionCard": {
+    "futureStudiesTitle": "Estudios Futuros",
+    "placementsTitle": "Prácticas y Empleos",
+    "collegesTitle": "Sugerencias de las Mejores Universidades"
+  }
+}

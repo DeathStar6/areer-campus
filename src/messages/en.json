@@ -1,0 +1,24 @@
+
+{
+  "DashboardPage": {
+    "title": "Dashboard",
+    "description": "Select your study level and specialization to get AI-powered career advice."
+  },
+  "CareerForm": {
+    "title": "Find Your Path",
+    "description": "Select your academic profile to receive personalized guidance.",
+    "studyLevelLabel": "Study Level",
+    "studyLevelPlaceholder": "Select your study level",
+    "specializationLabel": "Specialization",
+    "specializationPlaceholder": "Select your specialization",
+    "buttonText": "Generate Suggestions",
+    "loadingText": "Our AI is charting your career path...",
+    "errorTitle": "Error",
+    "errorMessage": "Failed to generate suggestions. Please check your connection and try again."
+  },
+  "SuggestionCard": {
+    "futureStudiesTitle": "Future Studies",
+    "placementsTitle": "Placements & Jobs",
+    "collegesTitle": "Top College Suggestions"
+  }
+}

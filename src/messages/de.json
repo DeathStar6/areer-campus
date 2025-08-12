@@ -1,0 +1,24 @@
+
+{
+  "DashboardPage": {
+    "title": "Dashboard",
+    "description": "Wählen Sie Ihr Studienniveau und Ihre Spezialisierung, um KI-gestützte Berufsberatung zu erhalten."
+  },
+  "CareerForm": {
+    "title": "Finde Deinen Weg",
+    "description": "Wählen Sie Ihr akademisches Profil, um persönliche Beratung zu erhalten.",
+    "studyLevelLabel": "Studienniveau",
+    "studyLevelPlaceholder": "Wählen Sie Ihr Studienniveau",
+    "specializationLabel": "Spezialisierung",
+    "specializationPlaceholder": "Wählen Sie Ihre Spezialisierung",
+    "buttonText": "Vorschläge generieren",
+    "loadingText": "Unsere KI plant Ihren Karriereweg...",
+    "errorTitle": "Fehler",
+    "errorMessage": "Vorschläge konnten nicht generiert werden. Bitte überprüfen Sie Ihre Verbindung und versuchen Sie es erneut."
+  },
+  "SuggestionCard": {
+    "futureStudiesTitle": "Zukünftige Studien",
+    "placementsTitle": "Praktika & Jobs",
+    "collegesTitle": "Vorschläge für Top-Hochschulen"
+  }
+}

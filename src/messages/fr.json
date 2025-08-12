@@ -1,0 +1,24 @@
+
+{
+  "DashboardPage": {
+    "title": "Tableau de bord",
+    "description": "Sélectionnez votre niveau d'études et votre spécialisation pour obtenir des conseils de carrière basés sur l'IA."
+  },
+  "CareerForm": {
+    "title": "Trouvez Votre Voie",
+    "description": "Sélectionnez votre profil académique pour recevoir des conseils personnalisés.",
+    "studyLevelLabel": "Niveau d'étude",
+    "studyLevelPlaceholder": "Sélectionnez votre niveau d'étude",
+    "specializationLabel": "Spécialisation",
+    "specializationPlaceholder": "Sélectionnez votre spécialisation",
+    "buttonText": "Générer des suggestions",
+    "loadingText": "Notre IA trace votre parcours professionnel...",
+    "errorTitle": "Erreur",
+    "errorMessage": "Échec de la génération des suggestions. Veuillez vérifier votre connexion et réessayer."
+  },
+  "SuggestionCard": {
+    "futureStudiesTitle": "Études futures",
+    "placementsTitle": "Stages et Emplois",
+    "collegesTitle": "Suggestions des meilleures universités"
+  }
+}

@@ -1,0 +1,24 @@
+
+{
+  "DashboardPage": {
+    "title": "डैशबोर्ड",
+    "description": "एआई-संचालित करियर सलाह पाने के लिए अपने अध्ययन स्तर और विशेषज्ञता का चयन करें।"
+  },
+  "CareerForm": {
+    "title": "अपना रास्ता खोजें",
+    "description": "व्यक्तिगत मार्गदर्शन प्राप्त करने के लिए अपनी शैक्षणिक प्रोफ़ाइल चुनें।",
+    "studyLevelLabel": "अध्ययन स्तर",
+    "studyLevelPlaceholder": "अपना अध्ययन स्तर चुनें",
+    "specializationLabel": "विशेषज्ञता",
+    "specializationPlaceholder": "अपनी विशेषज्ञता चुनें",
+    "buttonText": "सुझाव उत्पन्न करें",
+    "loadingText": "हमारा AI आपके करियर का रास्ता बना रहा है...",
+    "errorTitle": "त्रुटि",
+    "errorMessage": "सुझाव उत्पन्न करने में विफल। कृपया अपना कनेक्शन जांचें और पुनः प्रयास करें।"
+  },
+  "SuggestionCard": {
+    "futureStudiesTitle": "भविष्य के अध्ययन",
+    "placementsTitle": "प्लेसमेंट और नौकरियां",
+    "collegesTitle": "शीर्ष कॉलेज सुझाव"
+  }
+}
